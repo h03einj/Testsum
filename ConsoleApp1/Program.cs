@@ -12,6 +12,7 @@ static void sum(int a, int b)
     Console.WriteLine("hosssdeinjalali");
     Console.WriteLine("hosssdeinjalali");
     Console.WriteLine("hosssdeinjalali");
+    Console.WriteLine();
 }
 multi(a, b);
 static void multi(int a, int b)
